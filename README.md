@@ -1,6 +1,6 @@
 # MalBekta
 
-MalBekta is an application that allows one in organizing the online quiz.
+MalBekta is an application that shows how online quiz organized.
 
 Quiz is the method of answering to the questions that has been asked based on the knowledge. 
 
